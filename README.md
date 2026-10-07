@@ -2,7 +2,9 @@
 
 Public informational brochure for the Heliomark research venture.
 
-Live site: https://lookslikelove.github.io/heliomark-website/
+Live site: https://heliomarkresearch.com/
+
+Business email: hello@heliomarkresearch.com
 
 ## Contents
 
