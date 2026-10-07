@@ -1,30 +1,19 @@
-# Heliomark website
+# Heliomark Research website
 
-Public introduction to Heliomark, a self-funded venture developing probabilistic temperature forecasting and weather-market analysis software for its own business operation.
+Public informational brochure for the Heliomark research venture.
 
-[Read the website](https://lookslikelove.github.io/heliomark-website/)
+Live site: https://lookslikelove.github.io/heliomark-website/
 
-## Development status
+## Contents
 
-The initial product is in research and development. Work spans weather-data preparation, probabilistic model experiments, outcome evaluation and internal market-analysis tools. AWS EC2 and S3 support research compute and accepted inputs.
+- `index.html`: static brochure and embedded presentation styles
+- `assets/atmosphere-hero.jpg` and `assets/cloud-study.jpg`: AI-generated illustrative weather imagery
+- `.nojekyll`: GitHub Pages static-file marker
 
-The forecasting and trading implementation is maintained privately. This website repository was created separately and its commit history reflects brochure changes only.
+The images are decorative illustrations, not Heliomark observations or experimental evidence. The conceptual temperature diagram is also labelled as illustrative.
 
-### Activity snapshot: 8 October 2026
+This repository contains the public brochure only. Implementation code, model artifacts, research inputs, credentials and private contact information are not included. Development counts are a dated, self-reported snapshot and include automated or assisted work. They do not establish forecast skill or commercial results.
 
-Authenticated GitHub repository totals for the private implementation repository:
+Heliomark Research is the public identity of Heliomark, an independent, self-funded venture developing internal temperature-forecasting and weather-market research software. Current work remains in research and development.
 
-- 3,140 merged pull requests.
-- 12,043 commits on the default branch.
-
-These are repository activity counts, including automated and assisted work. They do not measure working hours, forecast skill, customers, revenue or profitability. Counts change as development continues.
-
-[Development account](https://github.com/lookslikelove) — profile contribution counts follow GitHub attribution rules and differ from repository totals.
-
-## Files in this public repository
-
-- `index.html`: introduction, styling, development snapshot and a labelled conceptual illustration.
-- `.nojekyll`: serve the static page without Jekyll processing.
-- `README.md`: this public project introduction.
-
-Forecasting models, training implementation, collectors, trading software, research data and credentials remain private.
+The proposed company domain and mailbox are not advertised until they have actually been acquired and configured.
