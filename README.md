@@ -1,6 +1,6 @@
 # Heliomark Research website
 
-Public informational brochure for the Heliomark research venture.
+Public website for Heliomark's temperature forecasting and weather-market research.
 
 Live site: https://heliomarkresearch.com/
 
@@ -14,8 +14,6 @@ Business email: hello@heliomarkresearch.com
 
 The images are decorative illustrations, not Heliomark observations or experimental evidence. The conceptual temperature diagram is also labelled as illustrative.
 
-This repository contains the public brochure only. Implementation code, model artifacts, research inputs, credentials and private contact information are not included. Development counts are a dated, self-reported snapshot and include automated or assisted work. They do not establish forecast skill or commercial results.
+This repository contains the public website only. Forecasting software, model artifacts, research inputs and credentials are maintained separately.
 
-Heliomark Research is the public identity of Heliomark, an independent, self-funded venture developing internal temperature-forecasting and weather-market research software. Current work remains in research and development.
-
-The proposed company domain and mailbox are not advertised until they have actually been acquired and configured.
+The site introduces the forecasting problem, research approach and relevance to weather-market decisions, and invites research enquiries. Models are under evaluation.
